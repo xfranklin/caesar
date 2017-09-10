@@ -1,0 +1,44 @@
+body{font-family: 'Dosis'}
+
+.main{
+	width:350px;
+	margin: 15px auto 0;
+}
+
+.num{
+	width: 60px;
+	text-align: center;
+}
+
+.pas-gen span{
+	font: 24px 'Dosis';
+	cursor: pointer;
+	user-select: none;
+	line-height: 35px;
+	padding: 0 4px;
+}
+
+.pass{
+	height: 35px;
+	font-size: 25px;
+	text-align: center;
+	padding: 25px;
+	margin: 0;
+	letter-spacing: .08em;
+	border-bottom: 1px solid #eee;
+}
+
+.two{border: none;}
+
+.pass-btn{
+	margin-left: 20px;
+	padding-left:  40px;
+	padding-right:  40px;
+}
+
+.cesar{width: 340px;}
+
+input[type="radio"]{
+	margin:20px 5px 0px 30px;
+	user-select: none;
+}
