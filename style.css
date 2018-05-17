@@ -50,10 +50,16 @@ input[type="radio"]{
 @media screen and (max-width: 480px) {
 
 .pure-form input[type=text],
-.pure-form label{
+.pure-form label,
+.pure-button{
 	margin-bottom: 0;
 	display: inline-block;
-}}
+	font-size:120%;
+}
+
+.pass{font-size:30px;}
+
+}
 
 @media screen and (max-width: 330px) {
 
