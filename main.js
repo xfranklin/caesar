@@ -1,6 +1,6 @@
 var mainApp = angular.module('mainApp',[]);
 
-mainApp.controller("cesar",function($scope){
+mainApp.controller("caesar",function($scope){
 
 //symbols
 	$scope.symbols=["a","b","c","d","e","f","g","h","i","j","k","l","m","n","o",
