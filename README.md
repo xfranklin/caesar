@@ -1,4 +1,4 @@
-<h1>Cesar</h1>
+<h1>Caesar</h1>
 
 <div align="center">
 	<img src="screenshot.gif" alt="">
